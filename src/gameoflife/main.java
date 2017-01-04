@@ -19,7 +19,7 @@ public class main {
      */
     public static void main(String[] args) {
         
-        int nbIter =-1;//-1 = infini
+        int nbIter =3;//-1 = infini
         
         
         try {
@@ -41,5 +41,6 @@ public class main {
         } catch (Exception ex) {
             ex.printStackTrace();
         }
+    }
      
 }
